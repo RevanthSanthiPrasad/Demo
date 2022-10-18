@@ -83,5 +83,8 @@ public class UseMobile {
 		System.out.println("-----------by using map() & forEach   ans =  boolean-----------------");
 		li.stream().map(z -> z.getWarranty()).forEach(x -> System.out.println(x));
 		
+		
+		System.out.println("something");
+		
 	}
 }
